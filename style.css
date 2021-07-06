@@ -6,4 +6,72 @@
 }
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.half-width{
+ 
+ 
+  padding-left: 20px;
+  width: 50%;
+  
+}
+.half-width img{
+    width: 70%;
+}
+.img{
+    height: 250px;
+}
+.dutta-vag{
+    display: flex;
+    margin-bottom: 100px;
+   
+    
+}
+.link{
+    background-image: linear-gradient(blue, skyblue);
+    padding: 8px 20px;
+    text-decoration: none;
+    border-radius: 30px;
+}
+.bgimg{
+     display: flex;
+     background-image: url();
+}
+
+}
+.section2{
+    height: 500px;
+    width: 85%;
+  
+
+}
+.add{
+    margin-right: 200px;
+    margin-left: 190px;
+}
+.img-size{
+     height: 250px;
+     width: 70px;
+}
+.blod{
+    text-align: center;
+}
+.zad{
+   display: flex;
+   width: 20%;
+   margin-left: 4%;
+   margin-right: 4%;
+   box-shadow: 10px;
+}
+.ddd{
+    height: 100px;
+    width: 100px;
+}
+.aaa{
+    height: 100px;
+    width: 100px;
+}
+.bbb{
+    height: 100px;
+    width: 100px;
 }
